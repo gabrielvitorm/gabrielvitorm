@@ -17,7 +17,7 @@
   <img align="center" alt="gv-css" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 </div><br>
 
-## 🌱 Estou estudando Python 
+## 🌱 Atualmente estou estudando Python 
 Comecei a estudar python a partir da cadeira de introdução a programação na faculdade. Gostei muito da linguagem e foi de fácil entendimento para mim, está sendo a primeira lingaguem de programação que aprendo por completo!
   
 ## IDEs
