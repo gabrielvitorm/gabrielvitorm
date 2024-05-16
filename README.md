@@ -22,3 +22,9 @@ Comecei a estudar python a partir da cadeira de introdução a programação na 
 ## IDEs
 <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/gabrielvitorm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/gabrielvitorm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/gabrielvitorm/output/github-contribution-grid-snake.svg">
+</picture>
+
