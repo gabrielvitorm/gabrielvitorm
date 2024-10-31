@@ -16,7 +16,7 @@
   <img align="center" alt="gv-css" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 </div><br>
 
-## 🌱 Olá, eu sou Gabriel Vitor!
+## Mais sobre mim!
 Sou estudante de Sistemas para Internet e estou em busca de uma carreira na área de backend. Tenho grande interesse em Python e Java, e estou sempre em busca de aprender mais sobre desenvolvimento de software, focando em construir aplicações eficientes e escaláveis.
 
 Aqui, você encontrará alguns dos meus projetos e contribuições. Estou aberto a colaborações e aprendizados, então sinta-se à vontade para entrar em contato!
