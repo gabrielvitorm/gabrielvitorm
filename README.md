@@ -16,8 +16,12 @@
   <img align="center" alt="gv-css" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 </div><br>
 
-## 🌱 Atualmente estou estudando Python 
-Comecei a estudar python a partir da cadeira de introdução a programação na faculdade. Gostei muito da linguagem e foi de fácil entendimento para mim, está sendo a primeira lingaguem de programação que aprendo por completo!
+## 🌱 Olá, eu sou Gabriel Vitor!
+Sou estudante de Sistemas para Internet e estou em busca de uma carreira na área de backend. Tenho grande interesse em Python e Java, e estou sempre em busca de aprender mais sobre desenvolvimento de software, focando em construir aplicações eficientes e escaláveis.
+
+Aqui, você encontrará alguns dos meus projetos e contribuições. Estou aberto a colaborações e aprendizados, então sinta-se à vontade para entrar em contato!
+
+Vamos construir algo incrível juntos!
   
 ## IDEs
 <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
