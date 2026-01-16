@@ -1,74 +1,106 @@
-<h1>Olá, eu sou o Gabriel Vitor! 👋</h1>
+# Gabriel Vitor — Backend / Full Stack Developer
+
+Desenvolvedor **Backend / Full Stack** com foco em **Java e Spring Boot**, atuando na construção de APIs REST robustas, escaláveis e alinhadas a boas práticas de arquitetura, segurança e cloud.
+
+Tenho **1 ano de experiência profissional**, com vivência em ambientes produtivos, conteinerização com Docker e infraestrutura na AWS. Perfil analítico, orientado a soluções e melhoria contínua.
+
+---
+
+## 📌 Contato & Networking
 
 <p>
-  <a href="https://instagram.com/_gabrielvitorm" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/gabrielvitorm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabrielvitormchaves@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabrielvitorm/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://instagram.com/_gabrielvitorm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Perfil Profissional
 
-Sou estudante de Sistemas para Internet, com grande entusiasmo por tecnologia, inovação e desenvolvimento de software. Tenho direcionado meus estudos para o desenvolvimento backend com Java e Spring Boot, buscando criar aplicações robustas, escaláveis e com boas práticas de arquitetura.
+Sou desenvolvedor com forte atuação em **backend**, especializado em **Java + Spring Boot**, desenvolvendo APIs REST seguindo princípios como:
 
-Paralelamente, aprofundo meus conhecimentos em Python, com foco em aplicações de Inteligência Artificial, unindo análise de dados, automação e soluções inteligentes que geram valor prático.
+- Arquitetura em camadas  
+- Separação de responsabilidades  
+- Boas práticas de segurança  
+- Integração com bancos de dados relacionais  
+- Preparação para ambientes cloud e escaláveis  
 
-Tenho interesse genuíno em aprender novas tecnologias e me desafiar constantemente. Acredito que a melhor forma de evoluir é colocando o conhecimento em prática — por isso, aqui no meu GitHub, você encontrará projetos que refletem minha jornada, aprendizados e crescimento na área.
+No frontend, atuo com **React (JavaScript e TypeScript)**, garantindo boa integração entre frontend e backend.
 
-Estou aberto a colaborações, networking e oportunidades de estágio ou projetos que me permitam contribuir ativamente com soluções e continuar me desenvolvendo como profissional da tecnologia.
+Possuo experiência com **Docker**, **AWS**, versionamento com **Git**, e bancos de dados **PostgreSQL** e **MySQL**.
 
-> **Vamos construir algo incrível juntos! 🚀**
+---
+<!--
+## 🧩 Projeto em Destaque
+
+### 🔹 API REST com Java & Spring Boot
+
+API RESTful desenvolvida com **Spring Boot**, focada em organização de código, boas práticas de API e persistência de dados, preparada para execução em ambiente conteinerizado e cloud.
+
+**Tecnologias:**
+- Java  
+- Spring Boot  
+- JPA / Hibernate  
+- PostgreSQL  
+- Docker  
+
+--- 
+-->
+## 🛠️ Stack Tecnológica
+
+### 💻 Linguagens & Frameworks
+<div style="display: inline_block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+---
+
+### 🗃️ Banco de Dados
+<div style="display: inline_block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+---
+
+### ☁️ DevOps & Cloud
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img alt="Status" height="160px" src="https://github-readme-stats.vercel.app/api?username=gabrielvitorm&show_icons=true&theme=dark"/>
-  <img alt="Linguagens" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvitorm&layout=compact&theme=dark"/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=gabrielvitorm&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvitorm&layout=compact&theme=dark&hide_border=true"
+/>
+
 </div>
 
 ---
 
-## 🚀 Tecnologias que uso
-
-### 💻 Linguagens
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</div>
-
-### 🗃️ Banco de Dados
-<div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="DBeaver" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg"/>
-</div>
-
-### 🛠️ Outras Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="Docker" height="40" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img align="center" alt="Git" height="40" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="GitHub" height="40" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
-### 🧠 IDEs que utilizo
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</div>
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielvitorm/gabrielvitorm/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielvitorm/gabrielvitorm/output/github-contribution-grid-snake.svg">
